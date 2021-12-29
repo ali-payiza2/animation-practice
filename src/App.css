@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  /* margin-top: 5rem; */
+
+  height: 100vh;
+}
+
+.canvasMainDiv{
+  background-color: black;
+  height: 100%;
+  
+}
+.canvasMainDiv img {
+  
+width: 5rem;
+height:5rem;
+}
